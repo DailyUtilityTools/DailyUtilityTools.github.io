@@ -1,15 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-Disallow: /settings
-
-# Crawl-delay for good citizenship
-Crawl-delay: 1
-
-# Google Bot specific rules
-User-agent: Googlebot
-Allow: /
-Disallow: /settings
 
 # Sitemap location
-Sitemap: https://rahulbisht.github.io/calculator/sitemap.xml
+Sitemap: https://rahulbisht.github.io/sitemap.xml
