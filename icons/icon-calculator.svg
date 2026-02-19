@@ -1,0 +1,36 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="calc-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="128" height="128" fill="url(#calc-gradient)" rx="28"/>
+  
+  <!-- Calculator body -->
+  <rect x="24" y="24" width="80" height="80" fill="white" rx="8" opacity="0.95"/>
+  
+  <!-- Display -->
+  <rect x="32" y="32" width="64" height="16" fill="#1e293b" rx="4"/>
+  
+  <!-- Buttons grid -->
+  <!-- Row 1 -->
+  <circle cx="40" cy="64" r="5" fill="#6366f1"/>
+  <circle cx="56" cy="64" r="5" fill="#6366f1"/>
+  <circle cx="72" cy="64" r="5" fill="#6366f1"/>
+  <circle cx="88" cy="64" r="5" fill="#6366f1"/>
+  
+  <!-- Row 2 -->
+  <circle cx="40" cy="76" r="5" fill="#6366f1"/>
+  <circle cx="56" cy="76" r="5" fill="#6366f1"/>
+  <circle cx="72" cy="76" r="5" fill="#6366f1"/>
+  <circle cx="88" cy="76" r="5" fill="#6366f1"/>
+  
+  <!-- Row 3 -->
+  <circle cx="40" cy="88" r="5" fill="#6366f1"/>
+  <circle cx="56" cy="88" r="5" fill="#6366f1"/>
+  <circle cx="72" cy="88" r="5" fill="#6366f1"/>
+  <circle cx="88" cy="88" r="5" fill="#f97316"/>
+</svg>
