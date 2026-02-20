@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rahulbisht.github.io/sitemap.xml
+Sitemap: https://dailyutilitytools.github.io/sitemap.xml
