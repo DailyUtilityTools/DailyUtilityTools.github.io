@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4814],{65212:(_,n,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/programming/OmniChartPage",function(){return e(45302)}])}},_=>{_.O(0,[4177,6815,9429,7155,5283,6982,9100,3423,5650,5302,636,6593,8792],()=>_(_.s=65212)),_N_E=_.O()}]);
